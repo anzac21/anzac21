@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Adam
 - 👀 I’m interested in movement ecology, amphibian conservation, and invasive species
 - 🌱 I’m currently learning Quarto, LaTeX, and the basics of other programming languages like HTML and CSS.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: work email - amcfall@usgs.gov | personal email - amcfall96@gmail.com
 - ⚡ Fun fact: I was part of a rap group called DuckSquad (sadly we no longer make music, but you can find our music on Spotify and Soundcloud)
 
