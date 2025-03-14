@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anzac21
+- 👋 Hi, I’m Adam
 - 👀 I’m interested in movement ecology, amphibian conservation, and invasive species
 - 🌱 I’m currently learning Quarto, LaTeX, and the basics of other programming languages like HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
